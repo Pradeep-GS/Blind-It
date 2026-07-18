@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Blindly",
+  "name": "Blind-It",
   "version": "1.0",
   "description": "Hide non-educational YouTube videos.",
 
@@ -14,7 +14,7 @@
 
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Blindly"
+    "default_title": "Blind-It"
   },
 
   "content_scripts": [
