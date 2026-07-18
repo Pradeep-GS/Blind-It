@@ -101,7 +101,7 @@ BlindIt/
 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/BlindIt.git
+git clone https://github.com/Pradeep-GS/Blind-It
 ```
 
 2. Open Google Chrome.
